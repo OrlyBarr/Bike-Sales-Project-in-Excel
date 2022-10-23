@@ -4,6 +4,8 @@ Understanding the shape of the data, cleaning, and manipulating the data in orde
 *	The Average income of customers per purchase.
 *	How customers’ ages influenced bike purchases.
 *	How customers’ commutes influenced bike purchases.
-•	The gender with the most purchases.
+*	The gender with the most purchases.
 These insights can be filtered by customer education, marital status, and region. 
+
+<img width="436" alt="Bike Sales Dashboard" src="https://user-images.githubusercontent.com/33102157/197391392-dd0e1220-d530-4209-a945-4a7b7603427f.png">
 
